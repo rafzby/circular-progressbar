@@ -53,8 +53,8 @@ Item {
             ctx.stroke();
 
             ctx.beginPath();
-            ctx.strokeStyle = root.primaryColor;
             ctx.arc(x, y, radius, startAngle, progressAngle);
+            ctx.strokeStyle = root.primaryColor;
             ctx.stroke();
         }
 
