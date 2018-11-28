@@ -1,2 +1,5 @@
-# circular-progressbar
-Circular progressbar written in QML based on Canvas
+# Circular Progress Bar
+Circular progressbar written in QML based on Canvas.
+
+
+![example](https://i.imgur.com/XfZihLw.png)

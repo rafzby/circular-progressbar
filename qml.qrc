@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>CircularProgressBar.qml</file>
     </qresource>
 </RCC>
