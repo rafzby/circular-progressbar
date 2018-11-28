@@ -3,8 +3,8 @@ import QtQuick 2.9
 Item {
     id: root
 
-    property real size: 150
-    property real lineWidth: 5
+    property int size: 150
+    property int lineWidth: 5
     property real value: 0
 
     property color primaryColor: "#29b6f6"

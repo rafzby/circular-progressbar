@@ -20,11 +20,12 @@ CircularProgressBar {
 
 | Name | Type | Example | Description |
 | ------ | ------ | ------ | ------ | 
-| size | real | 150 | The size of the component (width and height) |
-| lineWidth | real | 5 | The width of the progressbar line |
+| size | int | 150 | The size of the component (width and height) |
+| lineWidth | int | 5 | The width of the progressbar line |
 | value | real | 0.5 | The value of progress (from 0 to 1) |
 | primaryColor | color | #29b6f6 | The color of the circle describing the progress |
 | secondaryColor | color | #e0e0e0 | The color of the background circle |
+| animationDuration | int | 300 |  The duration of the progress animation, in milliseconds |
 
 
 License
